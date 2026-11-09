@@ -1,0 +1,6 @@
+{
+  "name": "WooCommerce First-Click Attribution Suite",
+  "description": "Plugin de atribución First-Click para WooCommerce con persistencia en cookies de 90 días, vinculación a pedidos HPOS, Data Layer para Google Tag Manager y panel visual interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
